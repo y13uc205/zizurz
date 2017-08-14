@@ -14,7 +14,7 @@
 		}
 	
 	div.des {
-   		 padding: 15px;
+   		 display:inline;
    		 text-align: center;
 		}
 	
@@ -25,5 +25,8 @@
    		
 		margin:20px;
 		}
+	#des_1,#des_2,#des_3,#des_4,#des_5,#des_6 {
+		text-align:center;
+	}
 		
 		
