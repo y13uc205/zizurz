@@ -11,7 +11,7 @@
    {
      "name":"JAINSONS EMPORIO",
 	   "price":2000,
-       "img":"zizurz/img/2.jpg"
+       "img":"img/2.jpg"
    
    
    
@@ -20,7 +20,7 @@
    {
      "name":"THE LIGHT STORE",
 	   "price":4000,
-       "img":"zizurz/img/3.jpg"
+       "img":"img/3.jpg"
    
    
    
@@ -30,7 +30,7 @@
    {
      "name":"SYLVN STUDIO",
 	   "price":5000,
-       "img":"zizurz/img/4.jpg"
+       "img":"img/4.jpg"
    
    
    
@@ -39,7 +39,7 @@
    {
      "name":"WOODEN TABLE LAMP",
 	   "price":4000,
-       "img":"zizurz/img/5.jpg"
+       "img":"img/5.jpg"
    
    
    
@@ -48,7 +48,7 @@
    {
      "name":"DOUBLE LIGHT LAMP",
 	   "price":7000,
-       "img":"zizurz/img/5.jpg"
+       "img":"img/6.jpg"
    
    
    
