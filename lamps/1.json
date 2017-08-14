@@ -1,0 +1,10 @@
+{ 
+	"name":"FOS LIGHTNING",
+	"price":3333,
+	"Product Details":[
+					"Type": "Floor lamp",
+	        "Base material": "Steel",
+					"Base colour": "Brown",
+					],
+	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],		
+}
